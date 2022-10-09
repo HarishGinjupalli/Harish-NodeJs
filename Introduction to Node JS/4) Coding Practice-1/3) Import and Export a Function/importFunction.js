@@ -1,0 +1,1 @@
+const funcDisplay = require("./exportFunction");
